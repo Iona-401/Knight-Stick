@@ -1,0 +1,80 @@
+CERN Open Hardware Licence Version 2 – Strongly Reciprocal
+
+This CERN Open Hardware Licence Version 2 – Strongly Reciprocal (“CERN-OHL-S v2”)
+applies to any Design that contains a notice placed by the copyright holder
+indicating that it may be distributed under the terms of this licence.
+
+1. Definitions
+
+“Design” means the files, documentation, schematics, PCB layouts, CAD files,
+or other material that describes or enables the manufacture of hardware.
+
+“Product” means any device or physical object made using the Design.
+
+“You” (or “Your”) means an individual or a legal entity exercising rights under
+this Licence.
+
+“Source” means the preferred form of the Design for making modifications.
+
+“Modified Design” means any Design that is derived from or based on the Design.
+
+2. Licence Grant
+
+Subject to the terms and conditions of this Licence, the Licensor grants You a
+worldwide, royalty-free, non-exclusive licence to:
+
+a. Use the Design and make Products;
+b. Distribute the Design and Products;
+c. Modify the Design and distribute Modified Designs or Products.
+
+3. Reciprocity (Copyleft)
+
+If You distribute a Modified Design or a Product based on a Modified Design, You
+must:
+
+a. Make the complete Source of the Modified Design available under the CERN-OHL-S
+   v2 or a later version of this Licence;
+b. Include a copy of this Licence and all copyright notices;
+c. Clearly mark modifications in the Source.
+
+4. Distribution of Products
+
+You may distribute Products made from the Design provided that You either:
+
+a. Accompany the Product with the Source of the Design; or
+b. Provide a written offer or URL from which the Source can be obtained.
+
+5. Attribution
+
+You must retain all copyright, licence, and attribution notices in the Source
+and, where practicable, on Products or accompanying documentation.
+
+6. Disclaimer of Warranty
+
+THE DESIGN IS PROVIDED “AS IS” AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES,
+INCLUDING, WITHOUT LIMITATION, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+
+7. Limitation of Liability
+
+IN NO EVENT SHALL THE LICENSOR OR CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES,
+OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE,
+ARISING FROM, OUT OF, OR IN CONNECTION WITH THE DESIGN OR THE USE OF THE DESIGN.
+
+8. Applicable Law and Jurisdiction
+
+This Licence shall be governed by and construed in accordance with the laws of
+the jurisdiction of the Licensor, unless otherwise required by applicable law.
+
+9. Versioning
+
+This is version 2.0 of the CERN Open Hardware Licence – Strongly Reciprocal.
+You may use this Design under the terms of this version or, at your option,
+any later version published by CERN.
+
+---
+
+Copyright (c) 2026 Sidhartha Das
+
+This Design is licensed under the CERN Open Hardware Licence Version 2 – Strongly
+Reciprocal.
