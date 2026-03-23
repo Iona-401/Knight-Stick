@@ -490,7 +490,7 @@
       "plot": "../../gerbers/JoyStickBoard/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "In-Grip Joy Mod.step",
+      "step": "JoyStickBoard.step",
       "svg": "",
       "vrml": ""
     },

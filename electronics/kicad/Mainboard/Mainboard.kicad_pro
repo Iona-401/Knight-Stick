@@ -490,7 +490,7 @@
       "plot": "../../gerbers/Mainboard/",
       "pos_files": "Gerbers/",
       "specctra_dsn": "",
-      "step": "In-Grip_Mainboard.step",
+      "step": "Mainboard.step",
       "svg": "",
       "vrml": ""
     },

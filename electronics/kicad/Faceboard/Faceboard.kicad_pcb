@@ -7580,8 +7580,8 @@
 		(embedded_fonts no)
 	)
 	(gr_rect
-		(start 150.95 89.94)
-		(end 155.95 94.94)
+		(start 149.94 90.89)
+		(end 157.94 98.89)
 		(stroke
 			(width 0.1)
 			(type solid)
