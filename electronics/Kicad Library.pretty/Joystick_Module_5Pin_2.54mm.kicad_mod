@@ -1,0 +1,98 @@
+(footprint "Joystick_Module_5Pin_2.54mm"
+  (version 20211014)
+  (generator pcbnew)
+  (layer "F.Cu")
+  (descr "Arduino Joystick Module 5-pin header, 2.54mm pitch")
+  (tags "joystick arduino ky-023 thumbstick")
+
+  (attr through_hole)
+
+  (fp_text reference "J?"
+    (at 5.08 -3.0)
+    (layer "F.SilkS")
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+
+  (fp_text value "Joystick_Module"
+    (at 5.08 3.0)
+    (layer "F.Fab")
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+
+  ;; Silk outline
+  (fp_line (start -1.5 -2)
+           (end 11.7 -2)
+           (layer "F.SilkS")
+           (width 0.12))
+  (fp_line (start 11.7 -2)
+           (end 11.7 2)
+           (layer "F.SilkS")
+           (width 0.12))
+  (fp_line (start 11.7 2)
+           (end -1.5 2)
+           (layer "F.SilkS")
+           (width 0.12))
+  (fp_line (start -1.5 2)
+           (end -1.5 -2)
+           (layer "F.SilkS")
+           (width 0.12))
+
+  ;; Courtyard
+  (fp_line (start -1.8 -2.3)
+           (end 12.0 -2.3)
+           (layer "F.CrtYd")
+           (width 0.05))
+  (fp_line (start 12.0 -2.3)
+           (end 12.0 2.3)
+           (layer "F.CrtYd")
+           (width 0.05))
+  (fp_line (start 12.0 2.3)
+           (end -1.8 2.3)
+           (layer "F.CrtYd")
+           (width 0.05))
+  (fp_line (start -1.8 2.3)
+           (end -1.8 -2.3)
+           (layer "F.CrtYd")
+           (width 0.05))
+
+  ;; Pads
+  (pad "1" thru_hole rect
+    (at 0 0)
+    (size 1.8 1.8)
+    (drill 1.0)
+    (layers "*.Cu" "*.Mask")
+    (pinfunction "VCC")
+    (pintype "power_in"))
+
+  (pad "2" thru_hole circle
+    (at 2.54 0)
+    (size 1.8 1.8)
+    (drill 1.0)
+    (layers "*.Cu" "*.Mask")
+    (pinfunction "GND")
+    (pintype "power_in"))
+
+  (pad "3" thru_hole circle
+    (at 5.08 0)
+    (size 1.8 1.8)
+    (drill 1.0)
+    (layers "*.Cu" "*.Mask")
+    (pinfunction "VRx")
+    (pintype "output"))
+
+  (pad "4" thru_hole circle
+    (at 7.62 0)
+    (size 1.8 1.8)
+    (drill 1.0)
+    (layers "*.Cu" "*.Mask")
+    (pinfunction "VRy")
+    (pintype "output"))
+
+  (pad "5" thru_hole circle
+    (at 10.16 0)
+    (size 1.8 1.8)
+    (drill 1.0)
+    (layers "*.Cu" "*.Mask")
+    (pinfunction "SW")
+    (pintype "input"))
+)
