@@ -5611,7 +5611,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2.2K"
+		(property "Value" "2K2"
 			(at 201.93 44.4499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5775,7 +5775,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2.2K"
+		(property "Value" "2K2"
 			(at 210.82 44.4499 0)
 			(show_name no)
 			(do_not_autoplace no)
